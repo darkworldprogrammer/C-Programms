@@ -1,0 +1,12 @@
+wtp the address of variable
+wtp variable,address,and pointer address
+wtp string to pointer
+wtp address of string
+length of string
+array to pointer
+pointer to pointer
+for null pointer
+for void pointer
+write a program to print sum of variable to pointer
+write a program to print a variable from array
+write a program to store 2 d arrray with a pointer to array

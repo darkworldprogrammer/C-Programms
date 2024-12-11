@@ -1,0 +1,19 @@
+//MEMORY REPRESENTATION AND ALLOCATION
+
+
+
+// for malloc
+ptr=(ptr_type*) malloc(size in byte)
+int*p
+p=(int*) malloc(20);
+p=(int*) malloc (n*size(int))
+
+// for calloc
+ptr=(datatype*) calloc(n,size)
+p=(int*) calloc(10,2)
+p=(int*) calloc(n,size(int))
+
+//for realloc
+ptr=(datatype*) realloc(ptr,newsize)
+p=(int*) malloc(10);
+p=(int*) realloc(p,20);
